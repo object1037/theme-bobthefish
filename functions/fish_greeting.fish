@@ -7,4 +7,5 @@ function fish_greeting -d "What's up, fish?"
     and command uptime
 
     set_color normal
+    echo "Happy Hacking!"
 end

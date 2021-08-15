@@ -485,7 +485,7 @@ function __bobthefish_colors -S -a color_scheme -d 'Define colors used by bobthe
     case 'dracula' # https://draculatheme.com
       set -l bg           282a36
       set -l current_line 44475a
-      set -l selection    44475a
+      set -l selection    7284A8
       set -l fg           f8f8f2
       set -l comment      6272a4
       set -l cyan         8be9fd
